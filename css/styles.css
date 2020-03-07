@@ -3,11 +3,12 @@ body {
   text-align: center;
 }
 
-h1, h2, h3 {
+h1, h2, {
   font-family: "Montserrat", sans-serif;
 }
 
 h3 {
+  font-family: "Montserrat", sans-serif;
   font-weight: 700;
 }
 
@@ -61,7 +62,6 @@ p {
 }
 
 /* Sections */
-
 .colored-section {
   background-color: #FED766
 }
@@ -76,8 +76,6 @@ p {
 }
 
 /* Title Image */
-
-
 .title-image {
   width: 45%;
   transform: rotate(20deg);
